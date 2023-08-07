@@ -37,6 +37,7 @@ module.exports = [
     children: [
       'simple-example',
       'advanced-example',
+      'complex-example',
     ]
   },
 ];
