@@ -83,6 +83,11 @@ module.exports = {
     smoothScroll: true,
     search: true,
     searchPlaceholder: 'Search...',
+    algolia: {
+      appId: 'H97IJDRAKG',
+      apiKey: 'eebc409cc56b4f13085bb75c60898146',
+      indexName: 'elementor',
+    },
     nav: [
       {
         text: 'Getting Started',
@@ -166,18 +171,6 @@ module.exports = {
       {
         text: 'Blog',
         link: 'https://developers.elementor.com/blog/',
-      },
-      {
-        text: 'Community',
-        link: 'https://forum.elementor.com/development-24',
-      },
-      {
-        text: 'Addons',
-        link: 'https://elementor.com/addons/',
-      },
-      {
-        text: 'Experts',
-        link: 'https://experts.elementor.com/',
       },
     ],
     sidebar: {
